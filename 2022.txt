@@ -1,2 +1,4 @@
 monday,day,time,tag,description
-may2,m,1250,hk,new tracking system
+may2,t,1250,hk,new tracking system
+may2,t,1320,hk,new tracking system
+may2,t,1350,hk,new tracking system
